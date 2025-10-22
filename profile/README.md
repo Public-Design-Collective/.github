@@ -2,7 +2,7 @@
 
 **Strengthening design practice in Latin America's public sector**
 
-We're a research initiative at Northeastern University's [Center for Design](https://camd.northeastern.edu/research-scholarship/research-centers-institutes/center-for-design/) making our datasets publicly available to advance research and practice in public sector design across Latin America.
+We're a research initiative at Northeastern University's [Center for Design](https://camd.northeastern.edu/center-for-design/) making our datasets publicly available to advance research and practice in public sector design across Latin America.
 
 
 ## 💡 Our Research
