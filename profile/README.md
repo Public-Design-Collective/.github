@@ -1,8 +1,8 @@
-# Public Design Collective
+## Strengthening design practice in Latin America's public sector
 
-**Strengthening design practice in Latin America's public sector**
+**Design** has the potential to strengthen the way policy and services are transformed, focusing innovation towards people and community-centered solutions. 
 
-We're a research initiative at Northeastern University's [Center for Design](https://camd.northeastern.edu/center-for-design/) making our datasets publicly available to advance research and practice in public sector design across Latin America.
+We're a research initiative at **Northeastern University's** [Center for Design](https://camd.northeastern.edu/center-for-design/) making our datasets publicly available to advance research and practice in public sector design across Latin America.
 
 
 ## 💡 Our Research
@@ -21,7 +21,7 @@ Contact us via [LinkedIn](https://www.linkedin.com/company/public-design-collect
 ## 🗂️ Our Datasets
 
 We collect and share data on:
-- Design practices in Latin American public institutions
+- Design practices in Latin America
 - Public sector innovation initiatives
 - Case studies and policy interventions
 
