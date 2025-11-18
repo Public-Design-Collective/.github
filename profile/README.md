@@ -1,30 +1,49 @@
 ## Strengthening design practice in Latin America's public sector
 
-**Design** has the potential to strengthen the way policy and services are transformed, focusing innovation towards people and community-centered solutions. 
+A multi-level, open-source research repository documenting public-sector design, innovation labs, and design-informed governance across Latin America.
 
-We're a research initiative at **Northeastern University's** [Center for Design](https://camd.northeastern.edu/center-for-design/) making our datasets publicly available to advance research and practice in public sector design across Latin America.
+**Design** has the potential to transform how policies and services are imagined, built, and delivered—shifting innovation toward community-centered and institutionally grounded solutions.
 
+We're a research initiative at **Northeastern University** making our datasets publicly available to advance research and practice in public sector design across Latin America.
+
+This repository houses the datasets created through our ongoing, multi-phase research program.
+
+**Status:**  
+This repository is actively under development. Several components—including methodological documentation, interviews, survey instruments, and additional datasets—will be added as the research progresses.
+
+---
 
 ## 💡 Our Research
 
-The Public Design Collective explores how design can strengthen public policy and services innovation in Latin America. Our work examines:
-- Design integration in public policy
-- Institutional capacity for design practice
-- Regional approaches to public sector innovation
-- Strengths and weaknesses of the ecosystem
+The Public Design Collective explores how design can strengthen public policy and service innovation across Latin America. Our work examines:
+- How design is integrated into public policy and governance
+- Institutional capacity for sustaining design practice
+- Regional approaches to public-sector innovation
+- Strengths, barriers, and gaps within the ecosystem
+- Longitudinal patterns in innovation labs and government design teams
 
 Learn more at [our site](https://publicdesigncollective.com).
 
 Contact us via [LinkedIn](https://www.linkedin.com/company/public-design-collective/).
 
+---
 
 ## 🗂️ Our Datasets
 
-We collect and share data on:
-- Design practices in Latin America
-- Public sector innovation initiatives
-- Case studies and policy interventions
+We aim to collect and share data on:
+- Public-sector design practices  
+- Innovation labs and institutional models  
+- Project-level initiatives and design methods  
+- Practitioners, teams, and organizational roles  
+- Case studies and policy interventions *(future phases)*
 
+
+All datasets are open access and include (or will include):
+- Data dictionaries and documentation  
+- Citation information  
+- License details  
+- Sample code and usage examples  
+- Notes on limitations and methodology  
 
 ## 📊 Using Our Data
 
@@ -33,7 +52,14 @@ All datasets are open access and include:
 - Citation information
 - License details
 - Sample code and usage examples
+- Notes on limitations and methodology
 
+You are welcome to download, analyze, and build upon any dataset in this repository.
+
+Cite our datasets:
+Public Design Collective. (2025). Latin America Public Innovation Repository (v1.0). Northeastern University. https://github.com/Public-Design-Collective/
+
+---
 
 ## 🤝 Get Involved
 
@@ -43,4 +69,33 @@ All datasets are open access and include:
 
 ---
 
-*Part of Northeastern University's Center for Design*
+## 📁 Folder Organization
+
+```text
+/public-design-collective-repository/
+│
+├── README.md
+├── LICENSE
+├── research_framework.pdf        (coming soon)
+│
+└── literature-review/
+    │
+    ├── methodology/              (coming soon)
+    │     ├── README.md
+    │     ├── code_files/
+    │     ├── data_dictionary.md
+    │     └── process_visualization_files/
+    │
+    ├── document-level-data/
+    │     ├── README.md
+    │     └── docLevel_LitReviewAnalysis.tsv
+    │
+    ├── institutional-level-data/ (coming soon)
+    ├── organization-level-data/  (coming soon)
+    ├── individual-level-data/    (coming soon)
+    │
+    └── supplemental-materials/
+
+
+---
+*Part of Northeastern University*
