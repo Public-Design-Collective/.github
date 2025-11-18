@@ -56,11 +56,11 @@ All datasets are open access and include:
 This repository uses a **dual-license structure**:
 
 - **MIT License** — applies to all code, scripts, and software components.  
-  See the [LICENSE](./LICENSE) file at the repository root.
+  See the [MIT License](https://github.com/Public-Design-Collective/PDC-open-data-repository/blob/main/LICENSE).
 
-- **CC BY 4.0 International License** — applies to all datasets and research outputs 
-  contained in the `literature-review/` directory and related data folders.  
-  See the [LICENSE-CC-BY-4.0](./LICENSE-CC-BY-4.0) file.
+- **CC BY 4.0 International License** — applies to all datasets and research outputs.  
+  See the [CC BY 4.0 License](https://github.com/Public-Design-Collective/PDC-open-data-repository/blob/main/LICENSE-CC-BY-4.0).
+
 
 Users are free to reuse the code with minimal restrictions and to adapt and build upon datasets with attribution.
 
