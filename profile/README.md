@@ -11,7 +11,6 @@ This repository houses the datasets created through our ongoing, multi-phase res
 **Status:**  
 This repository is actively under development. Several components—including methodological documentation, interviews, survey instruments, and additional datasets—will be added as the research progresses.
 
----
 
 ## 💡 Our Research
 
@@ -26,7 +25,6 @@ Learn more at [our site](https://publicdesigncollective.com).
 
 Contact us via [LinkedIn](https://www.linkedin.com/company/public-design-collective/).
 
----
 
 ## 🗂️ Our Datasets
 
@@ -37,7 +35,6 @@ We aim to collect and share data on:
 - Practitioners, teams, and organizational roles  
 - Case studies and policy interventions *(future phases)*
 
-
 All datasets are open access and include (or will include):
 - Data dictionaries and documentation  
 - Citation information  
@@ -45,21 +42,32 @@ All datasets are open access and include (or will include):
 - Sample code and usage examples  
 - Notes on limitations and methodology  
 
-## 📊 Using Our Data
+## 📊 License & Using Our Data 
 
+You are welcome to download, analyze, and build upon any dataset in this repository.  
 All datasets are open access and include:
-- Data dictionaries and documentation
-- Citation information
-- License details
-- Sample code and usage examples
-- Notes on limitations and methodology
 
-You are welcome to download, analyze, and build upon any dataset in this repository.
+- Data dictionaries and documentation  
+- Citation information  
+- License details  
+- Sample code and usage examples  
+- Notes on limitations and methodology  
 
-Cite our datasets:
-Public Design Collective. (2025). Latin America Public Innovation Repository (v1.0). Northeastern University. https://github.com/Public-Design-Collective/
+This repository uses a **dual-license structure**:
 
----
+- **MIT License** — applies to all code, scripts, and software components.  
+  See the [LICENSE](./LICENSE) file at the repository root.
+
+- **CC BY 4.0 International License** — applies to all datasets and research outputs 
+  contained in the `literature-review/` directory and related data folders.  
+  See the [LICENSE-CC-BY-4.0](./LICENSE-CC-BY-4.0) file.
+
+Users are free to reuse the code with minimal restrictions and to adapt and build upon datasets with attribution.
+
+  
+**Citation:**  
+Public Design Collective. (2025). *Latin America Public Innovation Repository* (v1.0). Northeastern University. https://github.com/Public-Design-Collective/
+
 
 ## 🤝 Get Involved
 
@@ -67,6 +75,9 @@ Public Design Collective. (2025). Latin America Public Innovation Repository (v1
 - **Share findings**: We'd love to hear how you're using the data
 - **Contribute**: Have relevant data to share? [Contact us](mailto:t.rosado@northeastern.edu)
 
+
+---
+*Part of Northeastern University*
 ---
 
 ## 📁 Folder Organization
@@ -74,8 +85,9 @@ Public Design Collective. (2025). Latin America Public Innovation Repository (v1
 ```text
 /public-design-collective-repository/
 │
+├── LICENSE                  ← MIT License (code + scripts)
+├── LICENSE-CC-BY-4.0        ← CC BY 4.0 (datasets)
 ├── README.md
-├── LICENSE
 ├── research_framework.pdf        (coming soon)
 │
 └── literature-review/
@@ -96,6 +108,3 @@ Public Design Collective. (2025). Latin America Public Innovation Repository (v1
     │
     └── supplemental-materials/
 
-
----
-*Part of Northeastern University*
