@@ -1,6 +1,6 @@
 ## ✨ NEW: Our map of Latin American Public Design is now LIVE! ✨
-Access the map **[here](https://map.unit.la/)
-Access the data **[here](https://docs.google.com/spreadsheets/d/1pwKvJmqPAmT8llivQgzlT7sy2GA4tWN7j071eZXSfAE/edit?usp=sharing)
+Access the map **[here](https://map.unit.la/)**
+Access the data **[here](https://docs.google.com/spreadsheets/d/1pwKvJmqPAmT8llivQgzlT7sy2GA4tWN7j071eZXSfAE/edit?usp=sharing)**
 
 ## Strengthening design practice in Latin America's public sector
 
